@@ -79,6 +79,13 @@ Se utiliza para comprobar que la respuesta sobre procesar otro grupo sea válida
 Se utiliza para repetir todo el proceso de registro cuando el usuario desea trabajar con otro grupo de estudiantes.
 
 ## 6. Capturas de pantalla de la ejecución
-![img1](../SistemacontrolcalificacionCap/img1.png)
-![img2](../SistemacontrolcalificacionCap/img2.png)
-![img3](../SistemacontrolcalificacionCap/img3.png)
+## 6. Capturas de pantalla de la ejecución
+
+### Captura 1
+![Captura 1](img1.png)
+
+### Captura 2
+![Captura 2](img2.png)
+
+### Captura 3
+![Captura 3](img3.png)
